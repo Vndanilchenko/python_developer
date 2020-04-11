@@ -1,0 +1,36 @@
+Location_0_tm0,0,0:00:00
+Location_2_tm33300,0,0:00:00
+Mob_exp20_tm1677,0,9:15:00
+Location_4_tm44000,20,9:42:57
+Mob_exp10_tm40,20,21:56:17
+Mob_exp15_tm40,30,21:56:57
+Mob_exp20_tm40,45,21:57:37
+Location_2_tm33300,65,21:58:17
+Mob_exp20_tm1677,65,"1 day, 7:13:17"
+Location_5_tm55100,85,"1 day, 7:41:14"
+Mob_exp10_tm0,85,"1 day, 22:59:34"
+Location_0_tm0,0,0:00:00
+Mob_exp10_tm0,0,0:00:00
+Location_1_tm1040,10,0:00:00
+Mob_exp20_tm200,10,0:17:20
+Mob_exp20_tm200,30,0:20:40
+Location_3_tm33000,50,0:24:00
+Location_7_tm33300,50,9:34:00
+Location_10_tm55100,50,18:49:00
+user_exit,50,"1 day, 10:07:20"
+Location_0_tm0,0,0:00:00
+user_exit,0,0:00:00
+Location_0_tm0,0,0:00:00
+Location_0_tm0,0,0:00:00
+Mob_exp10_tm0,0,0:00:00
+Location_1_tm1040,10,0:00:00
+Mob_exp20_tm200,10,0:17:20
+Mob_exp20_tm200,30,0:20:40
+Location_3_tm33000,50,0:24:00
+Location_7_tm33300,50,9:34:00
+Location_10_tm55100,50,18:49:00
+Mob_exp25_tm1,50,"1 day, 10:07:20"
+Mob_exp30_tm1,75,"1 day, 10:07:21"
+Mob_exp20_tm1,105,"1 day, 10:07:22"
+Mob_exp24_tm1,125,"1 day, 10:07:23"
+user_exit,149,"1 day, 10:07:24"

@@ -1,0 +1,26 @@
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line «емфира 86 ValueError not enough values to unpack (expected 3, got 2)
+perky 42 ZeroDivisionError division by zero
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line «емфира 86 ValueError not enough values to unpack (expected 3, got 2)
+perky 42 ZeroDivisionError division by zero
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line «емфира 86 ValueError not enough values to unpack (expected 3, got 2)
+perky 42 ZeroDivisionError division by zero
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line «емфира 86 ValueError not enough values to unpack (expected 3, got 2)
+perky 42 ZeroDivisionError division by zero
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line ярослав bxh@ya.ru 600 ValueError Age not in 10..99 range
+check_line “ролль nsocnzas.mail.ru 82 ValueError it's not a email
+check_line «емфира 86 ValueError not enough values to unpack (expected 3, got 2)
+perky 42 ZeroDivisionError division by zero
